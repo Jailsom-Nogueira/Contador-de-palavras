@@ -1,4 +1,5 @@
 # words-counter 
+## Um contador de palavras simples e minimalista!
 
 http://adjoining-drum.surge.sh/
 
@@ -11,7 +12,7 @@ Uma palavra: isto-tb..
 Uma palavra: ,.;
 Dez palavras: Esta é uma frase "normal", que possui também algumas pontuações. 
 
-# Espaços e quebra de linhas não são considerados
+Espaços e quebra de linhas não são considerados
 
 A simple project to count a number of words in a given string with JavaScript, React, RegExp and some Jest to test it.
 
