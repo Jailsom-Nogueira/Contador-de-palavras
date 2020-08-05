@@ -1,4 +1,4 @@
-# words-counter 
+# word-counter 
 ## Um contador de palavras simples e minimalista!
 
 http://adjoining-drum.surge.sh/
