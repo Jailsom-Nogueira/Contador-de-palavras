@@ -6,7 +6,7 @@ export const AddContainer = styled.div`
   width: 80vw;
   margin: 0 auto;
   h1{
-    color: #494949;
+    color: white;
   }
   textarea{
     outline: none;
